@@ -1,0 +1,47 @@
+a {
+  text-decoration: none;
+}
+
+
+
+.progetti  {
+  margin: 0 auto;
+  padding: 170px 20px !important;
+  background-color:$border-color;
+  width: 100%;
+  
+  h2 {
+    color: $text-light;
+    font-weight: bold;
+    font-size: 1.6rem;
+    margin-bottom: 3rem;
+  }
+  
+  .card {
+    background-color: $bg-lighter !important;
+    border: none;
+    padding:20px !important;
+    transition: transform 0.3s;
+    max-width: 1000px !important;
+    
+ 
+    &:hover {
+      transform: translateY(-5px);
+      cursor: pointer;
+    }
+    
+    .card-body {
+     
+      h3 {
+        color: $text-light;
+        font-weight: bold;
+        font-size: 1.17em;
+        margin-bottom: 1rem;
+      }
+      
+      p {
+        color: $text-gray;
+      }
+    }
+  }
+}

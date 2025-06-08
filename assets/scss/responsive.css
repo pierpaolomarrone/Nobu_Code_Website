@@ -1,0 +1,178 @@
+@media (max-width: 575.98px) {
+  .hero {
+    padding: 80px 0;
+    text-align: center;
+  }
+  .hero .foto-profilo {
+    max-width: 200px;
+    margin-bottom: 2rem;
+  }
+  .hero .hero-text {
+    text-align: center;
+    padding: 0 15px;
+  }
+  .hero .hero-text h1 {
+    font-size: 1.5rem;
+  }
+  .hero .hero-text h2 {
+    font-size: 1.1rem;
+  }
+  footer {
+    padding: 4rem 0 !important;
+  }
+  footer .row {
+    text-align: center;
+  }
+  footer .row .col-md-6 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  footer .row .text-end {
+    text-align: center !important;
+  }
+  footer .row .footer-social {
+    margin-bottom: 1.5rem;
+  }
+  .cv-section {
+    text-align: center;
+  }
+  .cv-section .cv-photo .img-fluid {
+    margin: 0 auto;
+    display: block;
+  }
+  .cv-section .contatti-cv {
+    text-align: center;
+  }
+}
+@media (min-width: 576px) {
+  .hero .foto-profilo {
+    max-width: 250px;
+  }
+  .hero .hero-text {
+    text-align: center;
+  }
+  .hero .hero-text h1 {
+    font-size: 1.8rem;
+  }
+  .hero .hero-text h2 {
+    font-size: 1.2rem;
+  }
+  footer {
+    padding: 5rem 0 !important;
+  }
+  footer .row {
+    text-align: center;
+  }
+  footer .row .col-md-6 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  footer .row .text-end {
+    text-align: center !important;
+  }
+  .cv-section {
+    text-align: center;
+  }
+  .cv-section .cv-photo .img-fluid {
+    margin: 0 auto;
+    display: block;
+  }
+  .cv-section .contatti-cv {
+    text-align: center;
+  }
+}
+@media (min-width: 768px) {
+  .hero {
+    padding: 100px 0;
+  }
+  .hero .foto-profilo {
+    max-width: 300px;
+  }
+  .hero .hero-text {
+    text-align: left;
+  }
+  .hero .hero-text h1 {
+    font-size: 2.5rem;
+  }
+  .hero .hero-text h2 {
+    font-size: 1.3rem;
+  }
+  footer {
+    padding: 5.5rem 0 !important;
+  }
+  footer .row {
+    text-align: center;
+  }
+  footer .row .col-md-6 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  footer .row .text-end {
+    text-align: center !important;
+  }
+  .cv-section .obiettivi p {
+    text-align: left;
+  }
+  .cv-section .cv-info ul {
+    text-align: left;
+  }
+  .cv-section p, .cv-section h1, .cv-section h2, .cv-section h3, .cv-section ul {
+    text-align: left;
+  }
+}
+@media (min-width: 992px) {
+  .hero .foto-profilo {
+    max-width: 400px;
+  }
+  .hero .hero-text h1 {
+    font-size: 3em;
+  }
+  footer {
+    padding: 6rem 0 !important;
+  }
+  footer .row .col-md-6:first-child {
+    text-align: left;
+  }
+  footer .row .text-end {
+    text-align: right !important;
+  }
+}
+.cv-section .contatti-cv p, .cv-section .contatti-cv h3 {
+  text-align: center;
+}
+
+@media (min-width: 1200px) {
+  .hero .container {
+    max-width: 1140px;
+  }
+  .hero .hero-text h1 {
+    font-size: 4rem;
+  }
+  .hero .hero-text h2 {
+    font-size: 1.5rem;
+  }
+  .hero .foto-profilo {
+    max-width: 450px;
+  }
+  footer {
+    padding: 7rem 0 !important;
+  }
+  footer .row .col-md-6:first-child {
+    text-align: left;
+  }
+  footer .row .text-end {
+    text-align: right !important;
+  }
+  .cv-section .contatti-cv p, .cv-section .contatti-cv h3 {
+    text-align: center;
+  }
+  .cv-section .obiettivi p {
+    text-align: left;
+  }
+  .cv-section .cv-info ul {
+    text-align: left;
+  }
+  .cv-section p, .cv-section h1, .cv-section h2, .cv-section h3, .cv-section ul {
+    text-align: left;
+  }
+}/*# sourceMappingURL=responsive.css.map */

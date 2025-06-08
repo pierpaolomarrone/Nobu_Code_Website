@@ -5,7 +5,7 @@ This repository contains the source code for my official website and personal po
 
 ## 🚀 Live Demo
 
-Click here for my webs: **https://nobu-code.netlify.app/**
+Click here for my website: **https://nobu-code.netlify.app/**
 
 
 ---
@@ -27,5 +27,5 @@ This project was built from the ground up using modern web technologies:
 **Pierpaolo Marrone**
 
 * **GitHub:** [@pierpaolomarrone](https://github.com/pierpaolomarrone)
-* **LinkedIn:** `https://www.linkedin.com/in/pierpaolo-marrone-b6b937176/` 
+* **LinkedIn:** **https://www.linkedin.com/in/pierpaolo-marrone-b6b937176/**
 * **Email:** `pierpaolo.nobu@gmail.com` 
